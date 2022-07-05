@@ -63,7 +63,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="230dp"
                             android:layout_marginTop="4dp"
-                            app:srcCompat="@android:drawable/btn_star_big_on" />
+                            app:srcCompat="@drawable/ic_baseline_shopping_cart_24" />
 
                         <TextView
                             android:id="@+id/textViewPreis"
